@@ -14,6 +14,9 @@ export default function Home() {
       <p>      
       <Link href="week-4">Interactivity</Link>
       </p>
+      <p>
+      <Link href="week-5">Handling Lists</Link>
+      </p>
     </main>
 
     
