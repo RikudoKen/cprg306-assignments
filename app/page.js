@@ -17,6 +17,9 @@ export default function Home() {
       <p>
       <Link href="week-5">Handling Lists</Link>
       </p>
+      <p>
+      <Link href="week-6">Managing State</Link>
+      </p>
     </main>
 
     
