@@ -20,6 +20,9 @@ export default function Home() {
       <p>
       <Link href="week-6">Managing State</Link>
       </p>
+      <p>
+      <Link href="week-7">Fetching Data</Link>
+      </p>
     </main>
 
     
