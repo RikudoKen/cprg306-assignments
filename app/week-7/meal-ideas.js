@@ -14,7 +14,7 @@ export default function MealIdeas({ ingredient }) {
     }
 
     // Function to fetch meal details based on meal ID
-    async function fetchMealDetails(mealId) {
+    async function fetchMealDetails( mealId ) {
         const response = await fetch(`https://www.themealdb.com/api/json/v1/1/lookup.php?i=${mealId}`);
         const data = await response.json();
         return data.meals[0];
