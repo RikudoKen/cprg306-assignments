@@ -23,9 +23,11 @@ export default function Home() {
       <p>
       <Link href="week-7">Fetching Data</Link>
       </p>
+      <p>
+      <Link href="week-8">FireBase Authentication</Link>
+      </p>
     </main>
 
-    
 
     
   );
