@@ -26,6 +26,9 @@ export default function Home() {
       <p>
       <Link href="week-8">FireBase Authentication</Link>
       </p>
+      <p>
+      <Link href="week-10">Cloud Firestore</Link>
+      </p>
     </main>
 
 
